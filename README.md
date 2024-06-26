@@ -24,8 +24,8 @@ The app keeps track of the user's score as they progress through the quiz. Point
 
 At the end of the quiz, the app displays the user's total score. This summary includes the number of correct and incorrect answers, providing a clear overview of the user's performance.
 
-![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/04687ad8-abc8-4726-b20d-323459ab6d49)
-![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/0d3e8333-e8f5-4b13-815d-031906d2be11)
+![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/899e8d8c-76a9-4f6b-b26c-cde765ffe3d7)
+![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/e7cbb08d-320a-49b1-b12c-f0ad94a8fd76)
 ![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/af1da75d-88ab-41d6-90f6-c366087041e9)
 ![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/2dfa96ae-4299-47d3-8582-23ea24fc77ba)
 
