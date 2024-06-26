@@ -27,7 +27,8 @@ At the end of the quiz, the app displays the user's total score. This summary in
 ![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/04687ad8-abc8-4726-b20d-323459ab6d49)
 ![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/0d3e8333-e8f5-4b13-815d-031906d2be11)
 ![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/af1da75d-88ab-41d6-90f6-c366087041e9)
-![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/0eec5499-1e4e-4985-a569-c182a1e32607)
+![image](https://github.com/aviralsaxena1104/Quiz-Application-using-HTML-CSS-and-Javascript/assets/122203395/2dfa96ae-4299-47d3-8582-23ea24fc77ba)
+
 
 
 
