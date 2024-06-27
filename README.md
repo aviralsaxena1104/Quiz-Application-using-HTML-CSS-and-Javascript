@@ -1,7 +1,7 @@
 # Quiz-Application-using-HTML-CSS-and-Javascript
 
 
-Developed an interactive quiz application using HTML, CSS, and JavaScript. This project was a fantastic way to dive deep into web development, combining my skills in front-end technologies to create a dynamic and engaging user experience.
+Developed an interactive quiz application using HTML, CSS, and JavaScript. 
 
 # Features
 1.Question Display:
